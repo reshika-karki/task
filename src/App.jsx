@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import NavBar from './Components/Navbar'
+import Footer from './Components/Footer'
 import Home from './Pages/Home'
 import './App.css'
 
@@ -18,6 +19,7 @@ function App() {
           <Route path="/contact" element={<div>Contact Page</div>} />
         </Routes>
       </div>
+      <Footer />
     </>
   )
 }

@@ -10,7 +10,6 @@ const NavBar = () => {
       <div className="flex justify-between items-center px-5 py-3">
         <div className="text-white font-bold text-2xl">
             CarHub
-          {/* <img src="https://via.placeholder.com/150x50?text=Logo" alt="Logo" className="h-10" /> */}
         </div>
         <div className="flex gap-8">
           <NavLink to="/" className={linkClasses}>
