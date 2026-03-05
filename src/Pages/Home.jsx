@@ -9,14 +9,14 @@ const Home = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-4">Welcome to CarHub</h1>
           <p className="text-xl mb-8 text-blue-100">
-            Your one-stop destination for premium car services and solutions
+            Discover Your Dream Car
           </p>
           <div className="flex gap-4 justify-center">
             <Link 
-              to="/service" 
+              to="/cars" 
               className="bg-white text-blue-600 px-8 py-3 rounded-lg font-bold hover:bg-blue-50 transition"
             >
-              Explore Services
+              Browse Cars
             </Link>
             <Link 
               to="/contact" 
