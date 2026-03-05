@@ -36,7 +36,7 @@ const Cars = () => {
     <div className="py-16 px-5">
       <div className="max-w-6xl mx-auto">
         
-        <div className="bg-gradient-to-r bg-black/30
+        <div className="bg-gradient-to-r bg-black/40
          text-white py-16 px-5 mb-12">
           <div className="max-w-4xl mx-auto text-center">
             <p className="text-xl text-blue-100">
