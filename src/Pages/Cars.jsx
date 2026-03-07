@@ -28,6 +28,34 @@ const cars = [
     price: '$20,000',
     description: 'Compact and efficient, perfect for urban driving.',
     image: 'https://via.placeholder.com/300x200?text=Hatchback+Speedy'
+  },
+   {
+    id: 5,
+    name: 'Sedan Model X',
+    price: '$25,000',
+    description: 'A sleek sedan with top performance and comfort.',
+    image: 'https://via.placeholder.com/300x200?text=Sedan+Model+X'
+  },
+  {
+    id: 6,
+    name: 'SUV All-Terrain',
+    price: '$40,000',
+    description: 'Robust SUV built for both city and off-road adventures.',
+    image: 'https://via.placeholder.com/300x200?text=SUV+All-Terrain'
+  },
+  {
+    id: 7,
+    name: 'Convertible Breeze',
+    price: '$35,000',
+    description: 'Enjoy open-air driving with style and elegance.',
+    image: 'https://via.placeholder.com/300x200?text=Convertible+Breeze'
+  },
+  {
+    id: 8,
+    name: 'Hatchback Speedy',
+    price: '$20,000',
+    description: 'Compact and efficient, perfect for urban driving.',
+    image: 'https://via.placeholder.com/300x200?text=Hatchback+Speedy'
   }
 ]
 
